@@ -12,7 +12,7 @@ Para usar o KwaiUTM, basta incluir o script em sua página HTML:
 
 ```html
 <script 
-    src="https://cdn.jsdelivr.net/gh/devluxca/kwaiutm@v1.0.0/utm-handler.js"
+    src="https://cdn.jsdelivr.net/gh/devluxca/kwaiutm@v0.1/utm-handler.js"
     data-token="seu-token"
     data-pixel-id="seu-pixel-id"
     data-click-id-param="click_id"
